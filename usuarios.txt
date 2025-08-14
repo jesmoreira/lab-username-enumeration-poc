@@ -1,0 +1,7 @@
+admin
+root
+teste
+suporte
+user
+gato_ninja
+convidado
