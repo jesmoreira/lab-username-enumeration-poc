@@ -3,11 +3,11 @@
 Author: [Jéssica Moreira]
 Date: 13/08/2025
 Target: Ambiente Local (localhost:8000)
-Description: Análise e exploração de uma falha de enumeração de usuário em um endpoint de autenticação. 
-A vulnerabilidade é explorada via análise diferencial da resposta HTTP utilizando a ferramenta ffuf.
+Description: Análise e exploração de uma falha de enumeração de usuário em um endpoint de autenticação. A vulnerabilidade é explorada via análise diferencial da resposta HTTP utilizando a ferramenta ffuf.
 
 ![Linguagem](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Licença](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 =============================================================================
 
 
